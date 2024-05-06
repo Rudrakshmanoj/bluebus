@@ -2,8 +2,8 @@
   "_id": {
     "$oid": "640082f21efcfc116f406aee"
   },
-  "name": "Mumbai",
-  "state": "Maharashtra"
+  "name": "Jammu",
+  "state": "Jammu and Kashmir"
 },{
   "_id": {
     "$oid": "640082f21efcfc116f406aef"
@@ -14,8 +14,8 @@
   "_id": {
     "$oid": "640082f21efcfc116f406af0"
   },
-  "name": "Bengaluru",
-  "state": "Karnataka"
+  "name": "Chandigarh",
+  "state": "Chandigarh"
 },{
   "_id": {
     "$oid": "640082f21efcfc116f406af1"
